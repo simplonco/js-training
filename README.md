@@ -13,16 +13,18 @@
 
 ## Resources
 
-* Javascript (Simplonline)
-  http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4
-* JavaScript - Algo (Simplonline)
-  http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1
-* Speaking JavaScript
-  http://speakingjs.com/
+* [Codecademy](https://www.codecademy.com/fr/learn/javascript)
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
+* [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)
+* [Speaking JS](http://speakingjs.com/)
+
+* http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4
+* http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1
+
 * https://github.com/ericelliott/essential-javascript-links
-* https://www.codecademy.com/fr/learn/javascript
-* https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
-* https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript
+
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
 * https://github.com/ericelliott/essential-javascript-links
+
 * https://bu7ch.gitbooks.io/apprendre-javascript/
