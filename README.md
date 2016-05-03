@@ -13,11 +13,11 @@
 
 ## Resources
 
-* [Codecademy](https://www.codecademy.com/fr/learn/javascript)
-* [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
-* [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript)
-* [Speaking JS](http://speakingjs.com/)
-* [Apprendre JavaScript](https://bu7ch.gitbooks.io/apprendre-javascript/)
+* [Codecademy](https://www.codecademy.com/fr/learn/javascript) :fr: :en:
+* [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/) :fr: :en:
+* [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
+* [Speaking JS](http://speakingjs.com/) :en:
+* [Apprendre JavaScript](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
 
 ### Links
 
