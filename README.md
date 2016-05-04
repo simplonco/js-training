@@ -23,16 +23,14 @@
 
 * http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4
 * http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1
-
 * https://github.com/ericelliott/essential-javascript-links
-
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 * https://developer.mozilla.org/fr/docs/Web/API/Element/innertHTML
 * https://developer.mozilla.org/fr/docs/Web/API/Document/getElementById
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s
-
 * http://google.github.io/styleguide/javascriptguide.xml
-
 * http://javascriptissexy.com/javascript-objects-in-detail/
 * http://eloquentjavascript.net/06_object.html
+
+_To be continued.._
