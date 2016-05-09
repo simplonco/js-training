@@ -15,7 +15,7 @@
 
 * [Codecademy](https://www.codecademy.com/learn/javascript) :fr: :gb:
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/) :fr: :gb:
-* [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
+* [OpenClassrooms - Apprenez à coder avec JavaScript](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
 * [Apprendre Javascript : le JS à Simplon — Rodolphe](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
 * [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/) :gb:
 * [Eloquent JavaScript](http://eloquentjavascript.net/) :uk:
