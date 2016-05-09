@@ -18,19 +18,31 @@
 * [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
 * [Speaking JS](http://speakingjs.com/) :gb:
 * [Apprendre JavaScript](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
+* [JavaScripot is Sexy](http://javascriptissexy.com/) :en:
+* [Eloquent JavaScript](http://eloquentjavascript.net/) :en:
 
 ### Links
 
-* http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4
-* http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1
-* https://github.com/ericelliott/essential-javascript-links
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-* https://developer.mozilla.org/fr/docs/Web/API/Element/innertHTML
-* https://developer.mozilla.org/fr/docs/Web/API/Document/getElementById
-* https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets
-* https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s
-* http://google.github.io/styleguide/javascriptguide.xml
-* http://javascriptissexy.com/javascript-objects-in-detail/
-* http://eloquentjavascript.net/06_object.html
+**Simplonline**
+
+* http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4 :fr:
+* http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1 :fr:
+
+**Mozilla Developer Network**
+
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript :uk:
+* https://developer.mozilla.org/fr/docs/Web/API/Document/getElementById :fr:
+* https://developer.mozilla.org/fr/docs/Web/API/Element/innertHTML :fr:
+* https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets :fr:
+* https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s :fr:
+
+**Style Guides**
+
+* [Google JavaScript Guide](http://google.github.io/styleguide/javascriptguide.xml) :uk:
+* [AirBNB ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5) :uk:
+
+**GitHub Awesome Lists**
+
+* [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) :uk:
 
 _To be continued.._
