@@ -18,8 +18,8 @@
 * [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
 * [Speaking JS](http://speakingjs.com/) :gb:
 * [Apprendre JavaScript](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
-* [JavaScripot is Sexy](http://javascriptissexy.com/) :en:
-* [Eloquent JavaScript](http://eloquentjavascript.net/) :en:
+* [JavaScript is Sexy](http://javascriptissexy.com/) :uk:
+* [Eloquent JavaScript](http://eloquentjavascript.net/) :uk:
 
 ### Links
 
