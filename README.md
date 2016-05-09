@@ -16,12 +16,13 @@
 * [Codecademy](https://www.codecademy.com/fr/learn/javascript) :fr: :gb:
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/) :fr: :gb:
 * [OpenClassrooms](https://openclassrooms.com/courses/apprenez-a-coder-avec-javascript) :fr:
-* [Speaking JS](http://speakingjs.com/) :gb:
-* [Apprendre JavaScript](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
-* [JavaScript is Sexy](http://javascriptissexy.com/) :uk:
+* [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/) :gb:
+* [Apprendre Javascript : le JS à Simplon — Rodolphe](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
 * [Eloquent JavaScript](http://eloquentjavascript.net/) :uk:
 
 ### Links
+
+* [JavaScript is Sexy](http://javascriptissexy.com/) :uk:
 
 **Simplonline**
 
