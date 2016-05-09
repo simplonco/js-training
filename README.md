@@ -19,6 +19,8 @@
 * [Apprendre Javascript : le JS à Simplon — Rodolphe](https://bu7ch.gitbooks.io/apprendre-javascript/) :fr:
 * [Speaking JavaScript: An In-Depth Guide for Programmers](http://speakingjs.com/) :gb:
 * [Eloquent JavaScript](http://eloquentjavascript.net/) :uk:
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) :uk:
+* [JavaScript The Right Way](http://jstherightway.org/) :uk:
 
 ### Links
 
