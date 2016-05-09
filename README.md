@@ -33,7 +33,9 @@
 
 **Mozilla Developer Network**
 
+* https://developer.mozilla.org/fr/docs/Web/JavaScript :uk:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript :uk:
+* https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core :uk:
 * https://developer.mozilla.org/fr/docs/Web/API/Document/getElementById :fr:
 * https://developer.mozilla.org/fr/docs/Web/API/Element/innertHTML :fr:
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets :fr:
