@@ -50,4 +50,14 @@
 
 * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) :uk:
 
+### Discourses
+
+* [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
+* [Cours sur la bibliothèque Underscore.js](http://discourse.simplon.co/t/cours-sur-la-bibliotheque-underscore-js/62)
+* [Modifier la clé d’une propriété d’un objet JS](http://discourse.simplon.co/t/modifier-la-cle-dune-propriete-dun-objet-js/127)
+* [Cours sur jQuery : histoire et usage](http://discourse.simplon.co/t/cours-sur-jquery-histoire-et-usage/63)
+* [Exercices de JS des cours de soutien](http://discourse.simplon.co/t/exercices-de-js-des-cours-de-soutien/71)
+* [Cours sur JavaScript](http://discourse.simplon.co/t/cours-sur-javascript/51)
+* [Exercices Frontend (html, css, js)](http://discourse.simplon.co/t/exercices-frontend-html-css-js/69)
+
 _To be continued.._
