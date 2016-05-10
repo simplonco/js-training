@@ -28,8 +28,8 @@
 
 **Simplonline**
 
-* http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4 :fr:
-* http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1 :fr:
+* [JavaScript Promo 4](http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4) :fr:
+* [JavaScript - Algo (partie 1)](http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1) :fr:
 
 **Mozilla Developer Network**
 
