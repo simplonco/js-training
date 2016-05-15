@@ -50,6 +50,8 @@
 
 * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) :uk:
 
+* https://github.com/MostlyAdequate/mostly-adequate-guide <3 <3
+
 ### Discourses
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
