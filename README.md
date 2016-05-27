@@ -63,9 +63,3 @@
 * [Exercices Frontend (html, css, js)](http://discourse.simplon.co/t/exercices-frontend-html-css-js/69)
 
 _To be continued.._
-
-### Update JS challenges
-
-```shell
-./update_from_upstream.sh
-```
