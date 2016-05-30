@@ -97,41 +97,56 @@ Triangle(5);
 Triangle(3);
 ```
 
+## `Factorial.js`
+
+```javascript
+/*
+ * Factorial
+ * n! = 1 * 2 * .. * n
+ * 
+ * 5! = 5 * 4 * 3 * 2 * 1 = 120
+ */
+
+// MATHS:
+// 0! = 1
+// n! = n * (n - 1)!
+
+function fac(n) {
+    if (n <= 1) {
+        return 1;
+    } else {
+        return n * fac(n - 1);
+    }
+}
+
+/* TEST */
+fac(5);
+```
+
 ### `Fibonnaci.js`
 ```javascript
 /*
  * INPUT: a number N
  *
- * OUPUT: f(N) where f is the fibonacci function
+ * OUPUT: f(N) where f is the fibonacci function :
  *
- */
-
-f(0) => 0
-f(1) => 1
-f(2) => 1
-f(3) => 2
-f(4) => 3
-f(5) => 5
-f(6) => 8
-f(7) => 13
-...
-
-0 1 1 2 3 5 8 13 21 34  ..
-
-0 + 1 = 1
-1 + 1 = 2
-1 + 2 = 3
-2 + 3 = 5
-3 + 5 = 8
-5 + 8 = 13
-...
-
-/* /!\ MATHS /!\
+ * 0 1 1 2 3 5 8 13 21 34  ..
+ *
+ * f(0) => 0
+ * f(1) => 1
+ * f(2) => 0 + 1 = 1
+ * f(3) => 1 + 1 = 2
+ * f(4) => 1 + 2 = 3
+ * f(5) => 2 + 3 = 5
+ * f(6) => 3 + 5 = 8
+ * f(7) => 5 + 8 = 13
+ * ...
+ *
+ * /!\ MATHS /!\
  *
  *  f(0) = 0
  *  f(1) = 1
  *  f(n) = f(n - 1) + f(n - 2)
- *
  */
 
 function f(N) {
@@ -144,16 +159,64 @@ console.log("Here the 50 first fibonnaci number");
 for (var i = 0; i < 50; ++i) {
     console.log("f(" + i + ") = " + f(i));
 }
+```
 
-///// UN AUTRE EXERCICE EN FRANCAIS
+## `Fibonnaci - Yvan Bad Solution.js`
 
-// voyelles: a e i o u y
-// consonnes: b c d f g h k l m n p q r s t v w x z
+```javascript
+/*
+ * f(0) = 0
+ * f(1) = 1
+ * f(n) = f(n-1) + f(n-2)
+ */
 
-g("les cookies sont delicieux") => "ls cks snt dlcx"
+function fib(x) {
+    if (x == 0)
+        return 0;
+    else if (x == 1)
+        return 1;
+    else
+        return fib(x-1) + fib(x-2);
+}
 
-// OU => AFFICHER les nombres paires de 80 à 20
-80 78 76 ... 20
+/* TEST */
+
+for (var i = 0; i < 100; i++) {
+    console.log("fib(" + i + ") = " + fib(i));
+}
+
+//
+// O(n) = 2^n
+// => 2^60 = 1152921504606846976
+//
+```
+
+## `Fibonnaci - Adam Good Solution.js`
+
+```javascript
+var T = [];
+
+T[0] = 0;
+T[1] = 1;
+
+for (var i = 2; i < 100; i++) {
+    T[i] = T[i-2] + T[i-1];
+}
+
+function fib(x) {
+    return T[x];
+}
+
+/* TEST */
+
+for (var i = 0; i < 100; i++) {
+    console.log("fib(" + i + ") = " + fib(i));
+}
+
+//
+// O(n) = n
+// => 60
+//
 ```
 
 ### `CashMachine.js`
@@ -182,3 +245,100 @@ cash_machine(42);
 //cash_machine(201);
 //cash_machine(1024);
 ```
+
+## `CashMachine.js II the Return of the ATM!`
+
+```javascript
+var BILLS = [100, 200, 20, 50, 10];
+
+var cash_machine = function (amount) {
+    BILLS.sort(function(a, b) { return a < b });
+    var i = 0;
+    while (amount > 0) {
+        if (BILLS[i] <= amount) {
+            console.log("Give me a bill of " + BILLS[i] + "€");
+            amount = amount - BILLS[i];
+        } else if (i < BILLS.length) {
+            i = i + 1;
+        } else {
+            console.log("It lack " + amount + "€");
+            break;
+        }
+    }
+}
+
+cash_machine(550);
+```
+
+## `SetTimeout.js`
+
+```javascript
+// PROTOTYPE //
+setTimeout(Function, Number);
+///////////////
+
+// Example
+
+// 1.
+setTimeout(
+    // first parameter
+    // (which is an anonymous function without parameter)
+    function () { alert("Bouuuuh"); },
+    // second parameter
+    3000
+);
+
+// MATHS //
+g() : is a Function
+f(g, x) : with x is a Number
+///////////
+
+// 2.
+function test() {
+    alert("Bouuuuh");
+};
+
+setTimeout(test, 3000);
+```
+
+## `MapFilter.js`
+
+```javascript
+// Definition of Map function
+function Map(arr, func) {
+    m_arr = [];
+    for (var i = 0; i < arr.length; ++i)
+        m_arr.push(func(arr[i]));
+    return m_arr;
+}
+
+// Definition of Filter function
+function Filter(arr, func) {
+    f_arr = [];
+    for (var i = 0; i < arr.length; ++i)
+        if (func(arr[i]))
+            f_arr.push(arr[i]);
+    return f_arr;
+}
+
+/** EXAMPLES (with tasty juicy fruits) **/
+var T = ["banana", "apple", "strawberry", "melon", "pineapple", "bob"];
+console.log(T);
+T = Filter(T, function (x) {
+    return x.indexOf("a") > - 1;
+});
+console.log(T);
+T = Map(T, function (x) {
+    return x + x;
+});
+console.log(T);
+T = Filter(T, function (x) {
+    return x.length > 15;
+});
+console.log(T);
+T = Map(T, function (x) {
+    return x + "^^";
+});
+console.log(T);
+```
+
