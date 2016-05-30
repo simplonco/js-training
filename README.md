@@ -155,7 +155,7 @@ function f(N) {
 }
 
 // TEST CODE
-console.log("Here the 50 first fibonnaci number");
+console.log("Here 50 first fibonnaci numbers");
 for (var i = 0; i < 50; ++i) {
     console.log("f(" + i + ") = " + f(i));
 }
