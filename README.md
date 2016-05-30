@@ -274,7 +274,7 @@ cash_machine(550);
 
 ```javascript
 // PROTOTYPE //
-setTimeout(Function, Number);
+// setTimeout(Function, Number);
 ///////////////
 
 // Example
@@ -289,8 +289,8 @@ setTimeout(
 );
 
 // MATHS //
-g() : is a Function
-f(g, x) : with x is a Number
+// g() : is a Function
+// f(g, x) : with x is a Number
 ///////////
 
 // 2.
