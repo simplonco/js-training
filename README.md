@@ -50,8 +50,7 @@
 **GitHub Awesome Lists**
 
 * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) :uk:
-
-* <https://github.com/MostlyAdequate/mostly-adequate-guide> :heart: :heart:
+* [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
 
 ### Discourses
 
