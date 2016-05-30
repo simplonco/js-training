@@ -97,7 +97,7 @@ Triangle(5);
 Triangle(3);
 ```
 
-## `Factorial.js`
+### `Factorial.js`
 
 ```javascript
 /*
@@ -161,7 +161,7 @@ for (var i = 0; i < 50; ++i) {
 }
 ```
 
-## `Fibonnaci - Yvan Bad Solution.js`
+#### `Fibonnaci - Yvan Bad Solution.js`
 
 ```javascript
 /*
@@ -191,7 +191,7 @@ for (var i = 0; i < 100; i++) {
 //
 ```
 
-## `Fibonnaci - Adam Good Solution.js`
+#### `Fibonnaci - Adam Good Solution.js`
 
 ```javascript
 var T = [];
@@ -246,7 +246,7 @@ cash_machine(42);
 //cash_machine(1024);
 ```
 
-## `CashMachine.js II the Return of the ATM!`
+#### `CashMachine.js II the Return of the ATM!`
 
 ```javascript
 var BILLS = [100, 200, 20, 50, 10];
@@ -270,7 +270,7 @@ var cash_machine = function (amount) {
 cash_machine(550);
 ```
 
-## `SetTimeout.js`
+### `SetTimeout.js`
 
 ```javascript
 // PROTOTYPE //
@@ -301,7 +301,7 @@ function test() {
 setTimeout(test, 3000);
 ```
 
-## `MapFilter.js`
+### `MapFilter.js`
 
 ```javascript
 // Definition of Map function
@@ -341,4 +341,3 @@ T = Map(T, function (x) {
 });
 console.log(T);
 ```
-
