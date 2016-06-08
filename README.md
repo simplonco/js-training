@@ -344,3 +344,26 @@ T = Map(T, function (x) {
 });
 console.log(T);
 ```
+
+### JS Types :scream: !
+
+```javascript
+yvan@x230:~$ nodejs
+> [] + []
+''
+> [] + {}
+'[object Object]'
+> {} + []
+0
+> {} + {}
+'[object Object][object Object]'
+> Array(16)
+[ , , , , , , , , , , , , , , ,  ]
+> Array(16).join("wat")
+'watwatwatwatwatwatwatwatwatwatwatwatwatwatwat'
+> Array(16).join("wat" + 1)
+'wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1'
+> Array(16).join("wat" - 1) + " Batman!"
+'NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batman!'
+> 
+```
