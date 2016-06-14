@@ -55,6 +55,11 @@
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
 
+### Angular & Node (to go further..)
+
+* https://github.com/simplonco/angular-workshop
+* https://github.com/simplonco/node
+
 ### Discourses
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
@@ -66,6 +71,7 @@
 * [Exercices Frontend (html, css, js)](http://discourse.simplon.co/t/exercices-frontend-html-css-js/69)
 
 _To be continued.._
+
 
 ## Code snippets
 
