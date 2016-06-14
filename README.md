@@ -12,6 +12,12 @@
   _We just sell cookies to earn more cookies! :cookie:_
 
 
+## Projects
+
+* [Projet de fin d'étape Promo 4 - Montreuil](https://github.com/simplonco/projects-session-1)
+* [Projet perso de la Promo 4 - Montreuil](https://github.com/simplonco/projects-session-2)
+
+
 ## Resources
 
 * [Codecademy](https://www.codecademy.com/learn/javascript) :fr: :gb:
