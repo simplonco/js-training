@@ -64,7 +64,7 @@
 ### Angular & Node (to go further..)
 
 * https://github.com/simplonco/angular-workshop
-* https://github.com/simplonco/node
+* https://github.com/simplonco/node-introduction
 
 ### Discourses
 
