@@ -68,6 +68,8 @@
 
 https://www.grafikart.fr/formations/javascript
 
+http://www.learn-js.org/
+
 ### Discourses
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
