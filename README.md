@@ -66,6 +66,8 @@
 * https://github.com/simplonco/angular-workshop
 * https://github.com/simplonco/node-introduction
 
+https://www.grafikart.fr/formations/javascript
+
 ### Discourses
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
