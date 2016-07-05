@@ -12,6 +12,12 @@
   _We just sell cookies to earn more cookies! :cookie:_
 
 
+## Projects
+
+* [Projet de fin d'étape Promo 4 - Montreuil](https://github.com/simplonco/projects-session-1)
+* [Projet perso de la Promo 4 - Montreuil](https://github.com/simplonco/projects-session-2)
+
+
 ## Resources
 
 * [Codecademy](https://www.codecademy.com/learn/javascript) :fr: :gb:
@@ -55,6 +61,15 @@
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
 
+### Angular & Node (to go further..)
+
+* https://github.com/simplonco/angular-workshop
+* https://github.com/simplonco/node-introduction
+
+https://www.grafikart.fr/formations/javascript
+
+http://www.learn-js.org/
+
 ### Discourses
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
@@ -66,6 +81,7 @@
 * [Exercices Frontend (html, css, js)](http://discourse.simplon.co/t/exercices-frontend-html-css-js/69)
 
 _To be continued.._
+
 
 ## Code snippets
 
