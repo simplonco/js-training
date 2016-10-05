@@ -9,6 +9,7 @@
 * [Javascript II](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-DOM.pdf) _DOM is important_ :bangbang:
 * [Javascript III](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-HTML5JS-Canvas-partie-1.pdf) _Draw in code_ :art:
 * [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
+* [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-JS-Ajax-Introduction.pdf) _PHP & JS for ajax!_
 
 ## Exercises
 
@@ -135,7 +136,7 @@ Triangle(3);
 /*
  * Factorial
  * n! = 1 * 2 * .. * n
- * 
+ *
  * 5! = 5 * 4 * 3 * 2 * 1 = 120
  */
 
@@ -394,5 +395,5 @@ yvan@x230:~$ nodejs
 'wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1wat1'
 > Array(16).join("wat" - 1) + " Batman!"
 'NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN Batman!'
-> 
+>
 ```
