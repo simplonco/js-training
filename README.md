@@ -3,7 +3,15 @@
 
 ![JavaScript](js.jpg)
 
+## Training
+
+* [Javascript I](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-Variables.pdf) _Introduction Javascript_
+* [Javascript II](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-DOM.pdf) _DOM is important_ :bangbang:
+* [Javascript III](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-HTML5JS-Canvas-partie-1.pdf) _Draw in code_ :art:
+* [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
+
 ## Exercises
+
 * [Javascript Basics](https://github.com/simplonco/js-exercises-base1) _Starting on Javascript_ :rage1:
 * [Javascript Basics II](https://github.com/simplonco/js-exercises-base2) _Starting on Javascript_ :rage2:
 * [Javascript Basics III](https://github.com/simplonco/js-exercises-base3) _Starting on Javascript_ :rage3:
