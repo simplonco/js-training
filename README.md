@@ -4,6 +4,11 @@
 ![JavaScript](js.jpg)
 
 ## Exercises
+* [Javascript Basics](https://github.com/simplonco/js-exercises-base1) _Starting on Javascript_ :rage1:
+* [Javascript Basics II](https://github.com/simplonco/js-exercises-base2) _Starting on Javascript_ :rage2:
+* [Javascript Basics III](https://github.com/simplonco/js-exercises-base3) _Starting on Javascript_ :rage3:
+* [Javascript Basics IV](https://github.com/simplonco/js-exercises-base4) _Starting on Javascript_ :rage4:
+* [Javascript Basics V](https://github.com/simplonco/js-exercises-base5) _Starting on Javascript_ :feelsgood:
 * [Challenges](https://github.com/simplonco/js-challenges)
   _It will maybe hurt a bit, but for your good! :cactus:_
 * [Recall](https://github.com/simplonco/js-recall)
