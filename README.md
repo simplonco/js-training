@@ -18,6 +18,10 @@
 * [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
 * [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-JS-Ajax-Introduction.pdf) _PHP & JS for ajax!_
 
+### TODO
+
+* https://github.com/simplonco/challenge-js-jeu-des-paires
+
 
 ## Starters
 
