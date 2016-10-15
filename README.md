@@ -11,13 +11,18 @@
 * [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
 * [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-JS-Ajax-Introduction.pdf) _PHP & JS for ajax!_
 
-## Exercises
+
+## Starters
 
 * [Javascript Basics](https://github.com/simplonco/js-exercises-base1) _Starting on Javascript_ :rage1:
 * [Javascript Basics II](https://github.com/simplonco/js-exercises-base2) _Starting on Javascript_ :rage2:
 * [Javascript Basics III](https://github.com/simplonco/js-exercises-base3) _Starting on Javascript_ :rage3:
 * [Javascript Basics IV](https://github.com/simplonco/js-exercises-base4) _Starting on Javascript_ :rage4:
 * [Javascript Basics V](https://github.com/simplonco/js-exercises-base5) _Starting on Javascript_ :feelsgood:
+
+
+## Exercises
+
 * [Challenges](https://github.com/simplonco/js-challenges)
   _It will maybe hurt a bit, but for your good! :cactus:_
 * [Recall](https://github.com/simplonco/js-recall)
