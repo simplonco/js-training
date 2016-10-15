@@ -1,5 +1,5 @@
 # JavaScript
->_[Training](https://gitlab.com/simplon-co/training) / JavaScript_
+>_[Training](https://github.com/simplonco/training) / JavaScript_
 
 ![JavaScript](js.jpg)
 
@@ -25,16 +25,16 @@
 
 * [Challenges](https://github.com/simplonco/js-challenges)
   _It will maybe hurt a bit, but for your good! :cactus:_
-* [Recall](https://gitlab.com/simplon-co/js-recall)
+* [Recall](https://github.com/simplonco/js-recall)
   _One way to see if you are comfortable with the JS. :vhs:_
-* [Cookie Clicker](https://gitlab.com/simplon-co/js-cookie-clicker)
+* [Cookie Clicker](https://github.com/simplonco/js-cookie-clicker)
   _We just sell cookies to earn more cookies! :cookie:_
 
 
 ## Projects
 
-* [Projet de fin d'étape Promo 4 - Montreuil](https://gitlab.com/simplon-co/projects-session-1)
-* [Projet perso de la Promo 4 - Montreuil](https://gitlab.com/simplon-co/projects-session-2)
+* [Projet de fin d'étape Promo 4 - Montreuil](https://github.com/simplonco/projects-session-1)
+* [Projet perso de la Promo 4 - Montreuil](https://github.com/simplonco/projects-session-2)
 
 
 ## Resources
@@ -82,8 +82,8 @@
 
 ### Angular & Node (to go further..)
 
-* https://gitlab.com/simplon-co/angular-workshop
-* https://gitlab.com/simplon-co/node-introduction
+* https://github.com/simplonco/angular-workshop
+* https://github.com/simplonco/node-introduction
 
 https://www.grafikart.fr/formations/javascript
 
