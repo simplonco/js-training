@@ -3,6 +3,13 @@
 
 ![JavaScript](js.jpg)
 
+## Subsections - Angular & Node (to go further..)
+
+* https://github.com/simplonco/angular-training
+* https://github.com/simplonco/angular-workshop
+* https://github.com/simplonco/node-introduction
+
+
 ## Training
 
 * [Javascript I](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-Variables.pdf) _Introduction Javascript_
@@ -51,6 +58,8 @@
 ### Links
 
 * [JavaScript is Sexy](http://javascriptissexy.com/) :gb:
+* https://www.grafikart.fr/formations/javascript
+* http://www.learn-js.org/
 
 **Simplonline**
 
@@ -79,15 +88,6 @@
 **Functional Programming**
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
-
-### Angular & Node (to go further..)
-
-* https://github.com/simplonco/angular-workshop
-* https://github.com/simplonco/node-introduction
-
-https://www.grafikart.fr/formations/javascript
-
-http://www.learn-js.org/
 
 ### Discourses
 
