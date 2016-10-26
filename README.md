@@ -10,19 +10,14 @@
 * https://github.com/simplonco/node-introduction
 
 
-## Training
-
-> Root of GitLab repository for a technology - modules
+## Courses
 
 * [Javascript I](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-Variables.pdf) _Introduction Javascript_
 * [Javascript II](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-DOM.pdf) _DOM is important_ :bangbang:
 * [Javascript III](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-HTML5JS-Canvas-partie-1.pdf) _Draw in code_ :art:
 * [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
 * [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-JS-Ajax-Introduction.pdf) _PHP & JS for ajax!_
-
-### TODO
-
-* https://github.com/simplonco/challenge-js-jeu-des-paires
+* [Jeu des Paires](https://github.com/simplonco/challenge-js-jeu-des-paires) _Challenge Javascript suite à l'initiation aux objets HTML_
 
 
 ## Starters
@@ -38,7 +33,7 @@
 
 ## Exercises
 
-> Exercices given without automated validation, with just a short subject / explanation
+> Exercices given without automated validation, with just a short explanation
 
 * [Challenges](https://github.com/simplonco/js-challenges)
   _It will maybe hurt a bit, but for your good! :cactus:_
@@ -50,7 +45,7 @@
 
 ## Projects
 
-> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
 
 * [Projet de fin d'étape Promo 4 - Montreuil](https://github.com/simplonco/projects-session-1)
 * [Projet perso de la Promo 4 - Montreuil](https://github.com/simplonco/projects-session-2)
@@ -58,7 +53,7 @@
 
 ## Resources
 
-> Currated list of external urls - ressources
+> Currated list of external ressources
 
 * [Codecademy](https://www.codecademy.com/learn/javascript) :fr: :gb:
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/) :fr: :gb:
@@ -69,7 +64,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) :gb:
 * [JavaScript The Right Way](http://jstherightway.org/) :gb:
 
-### Links
+#### Links
 
 * [JavaScript is Sexy](http://javascriptissexy.com/) :gb:
 * https://www.grafikart.fr/formations/javascript
@@ -78,7 +73,7 @@
 **Simplonline**
 
 * [JavaScript Promo 4](http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4) :fr:
-* [JavaScript - Algo (partie 1)](http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1) :fr:
+* [JavaScript - Algo (partie 1)](http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1) (Simplonline) :fr:
 
 **Mozilla Developer Network**
 
@@ -103,7 +98,7 @@
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
 
-### Discourses
+#### Discourses
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
 * [Cours sur la bibliothèque Underscore.js](http://discourse.simplon.co/t/cours-sur-la-bibliotheque-underscore-js/62)
@@ -112,5 +107,6 @@
 * [Exercices de JS des cours de soutien](http://discourse.simplon.co/t/exercices-de-js-des-cours-de-soutien/71)
 * [Cours sur JavaScript](http://discourse.simplon.co/t/cours-sur-javascript/51)
 * [Exercices Frontend (html, css, js)](http://discourse.simplon.co/t/exercices-frontend-html-css-js/69)
+
 
 _To be continued.._
