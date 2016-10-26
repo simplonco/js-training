@@ -70,12 +70,12 @@
 * https://www.grafikart.fr/formations/javascript
 * http://www.learn-js.org/
 
-**Simplonline**
+#### Simplonline
 
 * [JavaScript Promo 4](http://simplonline.co/dashboard/partages-formateurs/284-javascript-promo-4) :fr:
 * [JavaScript - Algo (partie 1)](http://simplonline.co/dashboard/consignes/75-consignes-promo-4/393-javascript-algo-partie-1) (Simplonline) :fr:
 
-**Mozilla Developer Network**
+#### Mozilla Developer Network
 
 * https://developer.mozilla.org/fr/docs/Web/JavaScript :gb:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript :gb:
@@ -85,16 +85,16 @@
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets :fr:
 * https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s :fr:
 
-**Style Guides**
+#### Style Guides
 
 * [Google JavaScript Guide](http://google.github.io/styleguide/javascriptguide.xml) :gb:
 * [AirBNB ES5 Style Guide](https://github.com/airbnb/javascript/tree/master/es5) :gb:
 
-**GitHub Awesome Lists**
+#### GitHub Awesome Lists
 
 * [Essential Javascript Links](https://github.com/ericelliott/essential-javascript-links) :gb:
 
-**Functional Programming**
+#### Functional Programming
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
 
