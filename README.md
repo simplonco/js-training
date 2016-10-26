@@ -3,12 +3,10 @@
 
 ![JavaScript](js.jpg)
 
-## Subsections - Angular & Node (to go further..)
+## Subsections
 
-* https://github.com/simplonco/angular-training
-* https://github.com/simplonco/angular-workshop
-* https://github.com/simplonco/node-introduction
-
+> * _Training/ JavaScript / [AngularJS](https://github.com/simplonco/angularjs-training)_
+> * _Training/ JavaScript / [NodeJS](https://github.com/simplonco/nodejs-training)_
 
 ## Courses
 
