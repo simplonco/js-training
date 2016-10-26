@@ -94,7 +94,7 @@
 
 * [Mostly adequate guide to FP (in javascript)](https://github.com/MostlyAdequate/mostly-adequate-guide) :heart: :heart:
 
-#### Discourses
+#### Discourses _(Montreuil Promo #3)_
 
 * [Cours sur le framework AngularJS](http://discourse.simplon.co/t/cours-sur-le-framework-angularjs/65)
 * [Cours sur la bibliothèque Underscore.js](http://discourse.simplon.co/t/cours-sur-la-bibliotheque-underscore-js/62)
