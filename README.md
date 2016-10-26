@@ -5,8 +5,8 @@
 
 ## Subsections
 
-> * _Training/ JavaScript / [AngularJS](https://github.com/simplonco/angularjs-training)_
-> * _Training/ JavaScript / [NodeJS](https://github.com/simplonco/nodejs-training)_
+> * _Training / JavaScript / [AngularJS](https://github.com/simplonco/angularjs-training)_
+> * _Training / JavaScript / [NodeJS](https://github.com/simplonco/nodejs-training)_
 
 ## Courses
 
