@@ -62,9 +62,6 @@
 * [Eloquent JavaScript](http://eloquentjavascript.net/) :gb:
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) :gb:
 * [JavaScript The Right Way](http://jstherightway.org/) :gb:
-
-#### Links
-
 * [JavaScript is Sexy](http://javascriptissexy.com/) :gb:
 * [Grafikart - Formation JS](https://www.grafikart.fr/formations/javascript) :fr:
 * [Learn JS](http://www.learn-js.org/) :gb:
