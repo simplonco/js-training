@@ -12,6 +12,8 @@
 
 ## Training
 
+> Root of GitLab repository for a technology - modules
+
 * [Javascript I](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-Variables.pdf) _Introduction Javascript_
 * [Javascript II](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-DOM.pdf) _DOM is important_ :bangbang:
 * [Javascript III](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-HTML5JS-Canvas-partie-1.pdf) _Draw in code_ :art:
@@ -25,6 +27,8 @@
 
 ## Starters
 
+> Short ressources to engage your training
+
 * [Javascript Basics](https://github.com/simplonco/js-exercises-base1) _Starting on Javascript_ :rage1:
 * [Javascript Basics II](https://github.com/simplonco/js-exercises-base2) _Starting on Javascript_ :rage2:
 * [Javascript Basics III](https://github.com/simplonco/js-exercises-base3) _Starting on Javascript_ :rage3:
@@ -33,6 +37,8 @@
 
 
 ## Exercises
+
+> Exercices given without automated validation, with just a short subject / explanation
 
 * [Challenges](https://github.com/simplonco/js-challenges)
   _It will maybe hurt a bit, but for your good! :cactus:_
@@ -44,11 +50,15 @@
 
 ## Projects
 
+> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+
 * [Projet de fin d'étape Promo 4 - Montreuil](https://github.com/simplonco/projects-session-1)
 * [Projet perso de la Promo 4 - Montreuil](https://github.com/simplonco/projects-session-2)
 
 
 ## Resources
+
+> Currated list of external urls - ressources
 
 * [Codecademy](https://www.codecademy.com/learn/javascript) :fr: :gb:
 * [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/) :fr: :gb:
