@@ -67,8 +67,8 @@
 #### Links
 
 * [JavaScript is Sexy](http://javascriptissexy.com/) :gb:
-* https://www.grafikart.fr/formations/javascript
-* http://www.learn-js.org/
+* [Grafikart - Formation JS](https://www.grafikart.fr/formations/javascript) :fr:
+* [Learn JS](http://www.learn-js.org/) :gb:
 
 #### Simplonline
 
@@ -77,13 +77,13 @@
 
 #### Mozilla Developer Network
 
-* https://developer.mozilla.org/fr/docs/Web/JavaScript :gb:
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript :gb:
-* https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core :gb:
-* https://developer.mozilla.org/fr/docs/Web/API/Document/getElementById :fr:
-* https://developer.mozilla.org/fr/docs/Web/API/Element/innertHTML :fr:
-* https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets :fr:
-* https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s :fr:
+* [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript) :gb:
+* [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) :gb:
+* [Using the W3C DOM Level 1 Core](https://developer.mozilla.org/en-US/docs/Web/API/Document_object_model/Using_the_W3C_DOM_Level_1_Core) :gb:
+* [getElementById](https://developer.mozilla.org/fr/docs/Web/API/Document/getElementById) :fr:
+* [innertHTML](https://developer.mozilla.org/fr/docs/Web/API/Element/innertHTML) :fr:
+* [Utiliser les objets](https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets) :fr:
+* [Mots réservés](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s) :fr:
 
 #### Style Guides
 
