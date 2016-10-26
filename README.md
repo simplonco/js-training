@@ -10,13 +10,11 @@
 
 ## Courses
 
-* [Javascript I](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-Variables.pdf) _Introduction Javascript_
-* [Javascript II](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-DOM.pdf) _DOM is important_ :bangbang:
-* [Javascript III](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-HTML5JS-Canvas-partie-1.pdf) _Draw in code_ :art:
-* [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
-* [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-JS-Ajax-Introduction.pdf) _PHP & JS for ajax!_
-* [Jeu des Paires](https://github.com/simplonco/challenge-js-jeu-des-paires) _Challenge Javascript suite à l'initiation aux objets HTML_
-
+* `pdf` [Javascript I](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-Variables.pdf) _Introduction Javascript_
+* `pdf` [Javascript II](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-DOM.pdf) _DOM is important_ :bangbang:
+* `pdf` [Javascript III](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-HTML5JS-Canvas-partie-1.pdf) _Draw in code_ :art:
+* `pdf` [Javascript IV](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-Javascript-JQuery-Consolidation.pdf) _Consult after exercises_ :soon:
+* `pdf` [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/training/Tutoriel-JS-Ajax-Introduction.pdf) _PHP & JS for ajax!_
 
 ## Starters
 
@@ -28,7 +26,6 @@
 * [Javascript Basics IV](https://github.com/simplonco/js-exercises-base4) _Starting on Javascript_ :rage4:
 * [Javascript Basics V](https://github.com/simplonco/js-exercises-base5) _Starting on Javascript_ :feelsgood:
 
-
 ## Exercises
 
 > Exercices given without automated validation, with just a short explanation
@@ -39,7 +36,7 @@
   _One way to see if you are comfortable with the JS. :vhs:_
 * [Cookie Clicker](https://github.com/simplonco/js-cookie-clicker)
   _We just sell cookies to earn more cookies! :cookie:_
-
+* [Jeu des Paires](https://github.com/simplonco/challenge-js-jeu-des-paires) _Challenge Javascript suite à l'initiation aux objets HTML_
 
 ## Projects
 
@@ -47,7 +44,6 @@
 
 * [Projet de fin d'étape Promo 4 - Montreuil](https://github.com/simplonco/projects-session-1)
 * [Projet perso de la Promo 4 - Montreuil](https://github.com/simplonco/projects-session-2)
-
 
 ## Resources
 
