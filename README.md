@@ -30,13 +30,18 @@
 
 > Exercices given without automated validation, with just a short explanation
 
-* [Challenges](https://github.com/simplonco/js-challenges)
-  _It will maybe hurt a bit, but for your good! :cactus:_
 * [Recall](https://github.com/simplonco/js-recall)
   _One way to see if you are comfortable with the JS. :vhs:_
 * [Cookie Clicker](https://github.com/simplonco/js-cookie-clicker)
   _We just sell cookies to earn more cookies! :cookie:_
 * [Jeu des Paires](https://github.com/simplonco/challenge-js-jeu-des-paires) _Challenge Javascript suite à l'initiation aux objets HTML_
+
+#### TDD Challenges
+
+> TDD exercices validated by Travis CI (cool for algorithms teaching), was imported from exercism.io
+
+* :trophy: [Challenges](https://github.com/simplonco/js-challenges)
+  _It will maybe hurt a bit, but for your good! :cactus:_
 
 ## Projects
 
