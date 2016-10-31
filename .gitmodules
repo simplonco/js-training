@@ -1,0 +1,39 @@
+[submodule "projects/projects-session-1"]
+	path = projects/projects-session-1
+	url = https://github.com/simplonco/projects-session-1
+[submodule "projects/projects-session-2"]
+	path = projects/projects-session-2
+	url = https://github.com/simplonco/projects-session-2
+[submodule "challenges/js-challenges"]
+	path = challenges/js-challenges
+	url = https://github.com/simplonco/js-challenges
+[submodule "exercises/challenge-js-jeu-des-paires"]
+	path = exercises/challenge-js-jeu-des-paires
+	url = https://github.com/simplonco/challenge-js-jeu-des-paires
+[submodule "exercises/js-cookie-clicker"]
+	path = exercises/js-cookie-clicker
+	url = https://github.com/simplonco/js-cookie-clicker
+[submodule "exercises/js-recall"]
+	path = exercises/js-recall
+	url = https://github.com/simplonco/js-recall
+[submodule "node"]
+	path = node
+	url = https://github.com/simplonco/node-introduction
+[submodule "angular"]
+	path = angular
+	url = https://github.com/simplonco/angular-training
+[submodule "starters/js-exercises-base1"]
+	path = starters/js-exercises-base1
+	url = https://github.com/simplonco/js-exercises-base1
+[submodule "starters/js-exercises-base2"]
+	path = starters/js-exercises-base2
+	url = https://github.com/simplonco/js-exercises-base2
+[submodule "starters/js-exercises-base3"]
+	path = starters/js-exercises-base3
+	url = https://github.com/simplonco/js-exercises-base3
+[submodule "starters/js-exercises-base4"]
+	path = starters/js-exercises-base4
+	url = https://github.com/simplonco/js-exercises-base4
+[submodule "starters/js-exercises-base5"]
+	path = starters/js-exercises-base5
+	url = https://github.com/simplonco/js-exercises-base5
