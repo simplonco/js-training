@@ -10,11 +10,11 @@
 
 ## Courses
 
-* `pdf` [Javascript I](https://github.com/simplonco/js-training/blob/master/PDF/Tutoriel Javascript Variables.pdf) _Introduction Javascript_
-* `pdf` [Javascript II](https://github.com/simplonco/js-training/blob/master/PDF/Tutoriel Javascript DOM.pdf) _DOM is important_ :bangbang:
-* `pdf` [Javascript III](https://github.com/simplonco/js-training/blob/master/PDF/Tutoriel HTML5 JS Canvas - partie 1.pdf) _Draw in code_ :art:
-* `pdf` [Javascript IV](https://github.com/simplonco/js-training/blob/master/PDF/Tutoriel Javascript JQuery Consolidation.pdf) _Consult after exercises_ :soon:
-* `pdf` [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/PDF/Tutoriel JS Ajax Introduction.pdf) _PHP & JS for ajax!_
+* `pdf` [Javascript I](https://github.com/simplonco/js-training/blob/master/courses/Tutoriel Javascript Variables.pdf) _Introduction Javascript_
+* `pdf` [Javascript II](https://github.com/simplonco/js-training/blob/master/courses/Tutoriel Javascript DOM.pdf) _DOM is important_ :bangbang:
+* `pdf` [Javascript III](https://github.com/simplonco/js-training/blob/master/courses/Tutoriel HTML5 JS Canvas - partie 1.pdf) _Draw in code_ :art:
+* `pdf` [Javascript IV](https://github.com/simplonco/js-training/blob/master/courses/Tutoriel Javascript JQuery Consolidation.pdf) _Consult after exercises_ :soon:
+* `pdf` [Javascript Ajax](https://github.com/simplonco/js-training/blob/master/courses/Tutoriel JS Ajax Introduction.pdf) _PHP & JS for ajax!_
 
 ## Starters
 
