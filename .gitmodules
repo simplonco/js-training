@@ -31,3 +31,9 @@
 [submodule "starters/js-exercises-base5"]
 	path = starters/js-exercises-base5
 	url = https://github.com/simplonco/js-exercises-base5
+[submodule "subsections/angularjs"]
+	path = subsections/angularjs
+	url = https://github.com/simplonco/angular-training
+[submodule "subsections/nodejs"]
+	path = subsections/nodejs
+	url = https://github.com/simplonco/node-introduction
