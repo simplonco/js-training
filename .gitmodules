@@ -16,12 +16,6 @@
 [submodule "exercises/js-recall"]
 	path = exercises/js-recall
 	url = https://github.com/simplonco/js-recall
-[submodule "node"]
-	path = node
-	url = https://github.com/simplonco/node-introduction
-[submodule "angular"]
-	path = angular
-	url = https://github.com/simplonco/angular-training
 [submodule "starters/js-exercises-base1"]
 	path = starters/js-exercises-base1
 	url = https://github.com/simplonco/js-exercises-base1
@@ -37,3 +31,9 @@
 [submodule "starters/js-exercises-base5"]
 	path = starters/js-exercises-base5
 	url = https://github.com/simplonco/js-exercises-base5
+[submodule "node"]
+	path = training/nodejs
+	url = https://github.com/simplonco/node-introduction
+[submodule "angular"]
+	path = training/angularjs
+	url = https://github.com/simplonco/angular-training
