@@ -37,3 +37,75 @@
 [submodule "subsections/nodejs"]
 	path = subsections/nodejs
 	url = https://github.com/simplonco/node-introduction
+[submodule "TODO/flexminator-cookie"]
+	path = TODO/flexminator-cookie
+	url = https://gitlab.com/montreuil-p6/flexminator-cookie
+[submodule "TODO/flexminator-flexbest"]
+	path = TODO/flexminator-flexbest
+	url = https://gitlab.com/montreuil-p6/flexminator-flexbest
+[submodule "TODO/flexminator-hackengers"]
+	path = TODO/flexminator-hackengers
+	url = https://gitlab.com/montreuil-p6/flexminator-hackengers
+[submodule "TODO/Ten-Commandments-of-HTML-and-CSS"]
+	path = TODO/Ten-Commandments-of-HTML-and-CSS
+	url = https://gitlab.com/montreuil-p6/Ten-Commandments-of-HTML-and-CSS
+[submodule "TODO/training"]
+	path = TODO/training
+	url = https://gitlab.com/montreuil-p6/training
+[submodule "TODO/merge-training"]
+	path = TODO/merge-training
+	url = https://gitlab.com/montreuil-p6/merge-training
+[submodule "TODO/toggle"]
+	path = TODO/toggle
+	url = https://gitlab.com/montreuil-p6/toggle
+[submodule "TODO/keyboard-event"]
+	path = TODO/keyboard-event
+	url = https://gitlab.com/montreuil-p6/keyboard-event
+[submodule "TODO/ux-elements"]
+	path = TODO/ux-elements
+	url = https://gitlab.com/montreuil-p6/ux-elements
+[submodule "TODO/randomize"]
+	path = TODO/randomize
+	url = https://gitlab.com/montreuil-p6/randomize
+[submodule "TODO/shuffle"]
+	path = TODO/shuffle
+	url = https://gitlab.com/montreuil-p6/shuffle
+[submodule "TODO/embed-video"]
+	path = TODO/embed-video
+	url = https://gitlab.com/montreuil-p6/embed-video
+[submodule "TODO/soutien"]
+	path = TODO/soutien
+	url = https://gitlab.com/montreuil-p6/soutien
+[submodule "TODO/human"]
+	path = TODO/human
+	url = https://gitlab.com/montreuil-p6/human
+[submodule "TODO/music-box"]
+	path = TODO/music-box
+	url = https://gitlab.com/montreuil-p6/music-box
+[submodule "TODO/thuglife"]
+	path = TODO/thuglife
+	url = https://gitlab.com/montreuil-p6/thuglife
+[submodule "TODO/word-game"]
+	path = TODO/word-game
+	url = https://gitlab.com/montreuil-p6/word-game
+[submodule "TODO/machine-a-cafe"]
+	path = TODO/machine-a-cafe
+	url = https://gitlab.com/montreuil-p6/machine-a-cafe
+[submodule "TODO/flexminator"]
+	path = TODO/flexminator
+	url = https://gitlab.com/montreuil-p6/flexminator
+[submodule "TODO/fake-js"]
+	path = TODO/fake-js
+	url = https://gitlab.com/montreuil-p6/fake-js
+[submodule "TODO/evaluation-november"]
+	path = TODO/evaluation-november
+	url = https://gitlab.com/montreuil-p6/evaluation-november
+[submodule "TODO/flexminator-mlns"]
+	path = TODO/flexminator-mlns
+	url = https://gitlab.com/montreuil-p6/flexminator-mlns
+[submodule "TODO/flexminator-aligator"]
+	path = TODO/flexminator-aligator
+	url = https://gitlab.com/montreuil-p6/flexminator-aligator
+[submodule "TODO/flexminator-les-winners"]
+	path = TODO/flexminator-les-winners
+	url = https://gitlab.com/montreuil-p6/flexminator-les-winners
