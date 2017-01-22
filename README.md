@@ -65,6 +65,7 @@
 * [JavaScript is Sexy](http://javascriptissexy.com/) :gb:
 * [Grafikart - Formation JS](https://www.grafikart.fr/formations/javascript) :fr:
 * [Learn JS](http://www.learn-js.org/) :gb:
+* [Kahn academy](https://fr.khanacademy.org/computing/computer-programming/programming) :fr: :gb:
 
 #### Simplonline
 
